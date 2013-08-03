@@ -1,44 +1,73 @@
 Developing from a Human Mindset by Károly Négyesi
 =================================================
 This book seeks to give you the tools to understand Drupal, to use it to do great things, and to contribute back to the Drupal community. This chapter will help in making your work not just highly productive but a source of joy.
+
 Use Revision Control
 --------------------
 To put it simply, revision control stores a copy of your files whenever you instruct it to do so, thereby allowing for later restoration. Of course, it stores the files more efficiently by storing only changes. It offers many other features, but for the purpose of this section, only the “restore later” feature is important.
+
 The code repositories on Drupal.org have migrated to a modern revision control system, Git (http://git-scm.com), and I recommend using it. Keeping track of your work with Git is as simple as running the following code snippet once:
     git init .
     git add .
     git commit -m 'Initial commit.'
 Also, every time you save, run a git commit -a -m "something". The “something” is a message; it doesn’t matter what it says, so don’t fret. You can also enter the date by using a system command to enter it for you (git commit -a -m "'date'") or by defining a keyboard shortcut. The important thing is that you make it effortless to keep every revision of your work. (The importance of being effortless will be clear later.)
+
 In a better world, the OS would do this for you; more often than not, it doesn’t. When you reach a milestone, write a meaningful commit message in case you want to share the work with someone else. But the commit-by-the-minute routine is not about sharing; it’s about making sure you can get back to any previous state. Study git bisect on how to find the revision where the error occurred. For more information on Git, see Chapter 2.
+
 Backup
 ------
 You should use mysqldump (dev.mysql.com/doc/refman/5.5/en/mysqldump.html) or the Backup and Migrate project (drupal.org/project/backup_migrate) to provide SQL dumps. SQL dumps are text files, so you can commit them into Git, too. Indeed, it doesn’t matter what kind of text file you work on— throw them into version control!
+
 Your web site probably has files, so don't forget to back up those as well. Windows and Mac OS X have GUI tools (Windows Backup and Time Machine) to achieve this; Linux has some command line tools (tar and rsync) to help. I recommend both the free and commercial offerings from r1soft (r1soft.com).
+
 Experiment Freely
 -----------------
 If you learn nothing else from this book, learn this: experiment freely. It’s a very important component of being a successful web developer. Don’t be afraid—you can’t break it. That’s why I use revision control constantly and why I back up regularly. Never work on a production server; setting up a development environment is very important and not difficult (and it is the focus of Chapter 12).
+
 I often see people on IRC or other forums asking “What would happen if...?” Well, here’s news for you: nothing serious! At worst, you get an error message. If you get one, remove the pieces that are too specific (like the local path to Drupal) and throw the error message into Google to find out why it occurred. Experiment freely not just by trying various strategies to a given problem but also with web searches.
+
 A web search takes a fraction of a second and you just can’t do too many of them. Search on something, take a look at the findings, rephrase your search based on them, and sooner or later you’ll find what you were searching for. It’s an iterative process and the only way to master it is to experiment a lot.
+
 This is true not just for searches but for everything. The phrase “lifelong learning” means continuous learning. And if what you learn isn’t useful right now, it might be useful later. My motto is “a day when I learned nothing is a day wasted.”
+
 On the other hand, don’t learn rote facts! Google simply knows more rote facts than we could ever, ever learn but continues learning them at speeds far exceeding any human. Learn patterns instead; learn the vocabulary that’s useful for searches. In this age of the ubiquitous web search, the very meaning of “knowledge” changes. If you know how to wield the search engine weapon well, you can just carry the skeleton of the necessary knowledge in your head; the meat can be filled with a quick search.
+
 Experimenting freely is a step toward flow. Flow is a curious state where the mind, according to Mihaly Csikszentmihalyi, is “completely involved in an activity for its own sake. The ego falls away. Time flies. Every action, movement, and thought follows inevitably from the previous one, like playing jazz. Your whole being is involved, and you’re using your skills to the utmost.” Reaching flow is joyous and leads to outstanding performance. Some expressions for this mental state include “in the moment,” “in the zone,” “in the groove,” and “keeping your head in the game.”
+
 We are not saying you always should be in a state of flow, nor is it advisable to always strive for flow (that probably would make it impossible to reach it). Rather, just organize things in a way so that flow can happen. Alas, there is no simple recipe, but the following things definitely help:
+
 *Have clear goals.* This can easily be achieved if you’re working on a well-defined project. (This is another reason why a good specification is vital to success!) If the specification has problems, break it down to tasks that are themselves clear.
+
 *Concentrate.* I recommend listening to music to help you concentrate. It can put you in the mood, and it can mask other distracting noises.
+
 *Enjoy direct and immediate feedback.* This is the reason why flow is easier to achieve for a web programmer: direct and immediate feedback is a given in our profession. Save the code, press refresh in the web browser, and ta-da! Immediate is important here; waiting for the code to compile or a test to finish does not fit this pattern.
+
 *Make the activity neither too easy nor too difficult*. This is a tricky one to achieve in a work setting. Consider yourself lucky when it happens.
+
 *A sense of personal control over the situation or activity.* Remember what I said about breaking down the problem into tasks? Doing so gives you a feeling of control. Working on a non-fixed schedule helps, too.
+
 *The activity is intrinsically rewarding, so there is an effortlessness of action.* Have you ever felt elated because your code worked?
+
 Contribute
 ----------
 Contributing to open source projects might not present you with a paycheck biweekly, but it will benefit you in other ways. First, if you want money, there is a community involved, so your professional network grows, which leads to more job opportunities. This is especially true with Drupal where the demand for quality workers far exceeds supply (for now, but it’s so uneven that it is expected to continue for quite some time).
+
 Second, peer reviews provide you with a chance to learn. This is one of the reasons why open source is such a great opportunity—we learn together.
+
 Third, we humans are social animals. Belonging to a community and receiving the praise of our peers is important to everyone.
+
 Fourth, review the flow list above! When working on your own issue, you have clear goals, so choose one that is doable (but only just). Of course, you have total personal control over the whole situation.
+
 Finally, although there is no paycheck to receive, it’s intrinsically rewarding.
+
 So, how can you contribute? Contribution takes many forms (marketing, event organization, etc.), but the two I would like to highlight are documentation and code.
+
 Documentation is best written by those who have just reached the point where they feel they understand their topic. Once you are intimately familiar with something, it takes an unusual talent to be able to reflect on what was hard to understand in the beginning. So while you struggle to understand something, write notes on the problems you find. At the end, write down the answers you learned and you have a handbook page. It might not be smooth. It might be in slightly broken English. Don’t worry. It’s way easier to clean up a handbook page than to write one.
+
 Code contributions most often happen in the form of writing patches or reviewing them. Both are very important. You can go to any project page, click the “open issues” link, and then either fix an outstanding bug or review a patch. There are excellent handbook pages that help with this process at drupal.org/patch, drupal.org/patch/apply, and drupal.org/handbook/git.
+
 Once again, don’t try to come up with the perfect solution. Do something that works and then work with the community. Note that many patch reviews are terse and not too flattering; remember that the negative criticism is about your code, not you! We love everyone who contributes. Spending time with their contribution is appreciation in itself, as time is the scarcest commodity in an open source community.
+
 You can make a valuable contribution to the issue queue even if you don’t code. You can open a bug report and check whether it contains enough information to be reproduced. If not, mark it as “needs more information.” If it does, try reproducing it. If it’s not reproducible any more, close it as “fixed.” We need a lot of people doing this so those who are more familiar with Drupal—like you after reading this book, putting it into practice, and spending time—can concentrate on fixing the real problems.
+
 For more on this and many other ways to contribute to Drupal, see Chapter 38.
