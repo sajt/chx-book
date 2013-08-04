@@ -3,7 +3,7 @@
 ### írta Négyesi Károly ###
 ###### A The Definitive Guide to Drupal 7 c. könyvből
 
-A könyv célja, hogy eszközöket adjon ahhoz, hogy jobban megértsd a Drupal-t, amivel aztán nagyszerű dolgokat csinálj, és adj vissza valamit a közösségnek. Ez a fejezet nem csak abban segít, hogy hatékonyabb legyél, hanem örömforrás is.
+A könyv célja, hogy eszközöket adjon ahhoz, hogy jobban megértsd a Drupal-t, amivel aztán nagyszerű dolgokat csinálj, és adj vissza valamit a közösségnek. Ez a fejezet nem csak abban segít, hogy hatékonyabb legyél, hanem élvezd is amit csinálsz.
 
 Használj verziókezelőt
 --------------------
@@ -15,7 +15,7 @@ A Drupal.org-on már egy ideje a Git-et (http://git-scm.com) használjuk, és az
     git add .
     git commit -m 'Initial commit.'
 
-Mindig amikor mentesz, futtasd a `git commit -a -m "bármi"` parancsot. A "bármi" egy üzenet, egy mondat, mindegy, hogy mi, ezen ne aggódj. A legegyszerűbb, ha beírod az aktuális időpontot a megjegyzésbe egy rendszerparancs használatával (`git commit -a -m "'date'"`) vagy definiálsz egy  gyorsbillentyűt. Fontos, hogy a megerőltetés nélkül meglegyen a munkád összes verziója. (A megerőltetés-nélküliség fontossága később válik tisztává.)
+Mindig amikor mentesz, futtasd a `git commit -a -m "bármi"` parancsot. A "bármi" egy üzenet, egy mondat, mindegy, hogy mi, ezen ne aggódj. A legegyszerűbb, ha beírod az aktuális időpontot a megjegyzésbe egy rendszerparancs használatával (`git commit -a -m "`date`"`) vagy definiálsz egy  gyorsbillentyűt. Fontos, hogy a megerőltetés nélkül meglegyen a munkád összes verziója. (A megerőltetés-nélküliség fontossága később válik tisztává.)
 
 Egy jobb világban az operációs rendszer megcsinálná ezt helyetted, de sajnos a valóságban általában ez nem történik meg. Amikor elérsz egy mérföldkőhöz, akkor írj egy hasznos commit üzenetet, arra az esetre, ha meg akarnád osztani a munkát valaki mással. A folyamatos commit-olás rutinja nem a megosztásról szól. Arról szól, hogy bármikor vissza tudsz térni egy korábbi állapotra. Tanulmányozd a `git bisect`-et, hogy hogyan találhatod meg azt a változatot, ahol a hiba előjött. További információk a Git-ről, a 2. fejezetben.
 
