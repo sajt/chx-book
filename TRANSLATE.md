@@ -35,15 +35,14 @@ vedd ki belőle a rád vonatkozó részeket (például a Drupal helyi elérési 
 ez miért is történhetett. A Szabadon kísérletezés stratégiája nem csak azt jelenti, hogy mindenfélét kipróbálsz,
 hanem azt is, hogy közben folyamatosan keresed a weben a megoldásokat.
 
-Egy webes keresés nem tart túl sokáig és nem sokat kell belőle megtenni. Keress valamire, nézd meg amit találtál,
-ez alapján írd át a keresőszavaidat és inkább előbb, mint később meg fogod találni, amit keresel.
+Egy webes keresés nem tart túl sokáig és minél többet futtatsz, annál jobb. Keress valamire, nézd meg amit találtál, ez alapján írd át a keresőszavaidat és inkább előbb, mint később meg fogod találni, amit keresel.
 Ez egy állandóan ismétlődő feladat és ez az egyetlen lehetőség arra, hogy jobb legyél.
 
 Ez így igaz és nem csak a keresésre, hanem mindenre. A kifejezés "Élethosszig való tanulás" folyamatos tanulást
 jelent. Lehet, hogy amit most megtanulsz, nem tűnik hasznosnak, de hasznos lehet később. A mottóm: "A nap,
 amikor nem tanulok semmit, elpazarolt és felesleges."
 
-Másrészről ne tanulj meg beidegződéseket. A Google jobban ismeri az összes beidegződést, mint valaha is megtanulhatunk és gyorsabban tanulja meg ezeket, mint bárki. Inkább tanulj módszereket! Sajátítsd el azt a szókincset, ami hasznos a keresésekhez! Korunkban, a mindenütt jelenlévő keresés igazi jelentése a "tudás" folyamatosan változik. Ha tudod használni a keresőt, akkor elég csak a tudás csontváza a fejedben, a húst a gyors keresésekkel növesztheted hozzá.
+Másrészről ne tanulj meg tényeket. A Google jobban ismeri az összes tényt, mint amit valaha is megtanulhatunk és gyorsabban tanulja meg ezeket, mint bárki. Inkább tanulj módszereket! Sajátítsd el azt a szókincset, ami hasznos a keresésekhez! orunkban, a mindenütt elérhető webkeresés még azt is megváltoztatja hogy mi a "tudás". Ha tudod használni a keresőt, akkor elég csak a tudás csontváza a fejedben, a húst a gyors keresésekkel növesztheted hozzá.
 
 A szabadon kísérletezés egy lépés a flow (áramlat) felé. A flow az elme egy furcsa állapota, Csikszentmihályi Miihány szerint "tevékenység végzése magáért a tevékenységért. Az ego eltűnik. Az idő elrepül. Minden akció, mozgás és gondolat elkerülhetetlenül következik az előtte lévőből, ahogyan jazz-t játszanak.Az egész lényed részt vesz benne, és az adottságaidat a lehető legjobban használod fel." A flow elérése örömteli és elvezet a kiemelkedő teljesítmény eléréséig. Néhány kifejezés erre a mentális állapotra: "a pillanatban", "zónában","mederben" és "a játékon tartani a szemet." ???
 
@@ -63,25 +62,25 @@ Nem azt mondjuk, hogy állandóan a flow állapotában kell lenned, nem is céls
 
 Közreműködés
 ----------
-A nyílt forrású projektekben való közreműködés nem fizet kéthetente, de másképpen lehet vele jól járni.
+A nyílt forrású projektben való közreműködés nem fizet kéthetente, de másképpen lehet vele jól járni.
 
-Először is, ha pénzt akarsz, van egy befogadó közösség, így a szakmai ismerettséged is nő, ami több munkalehetőséghez vezet. Ez különlegesen igaz a Drupal-ra, ahol a mínőségi munkavállalókra való kereslet messze meghaladja a kínálatot (jelenleg, bár ez elég kiszámíthatatlan, de várhatóan egy ideig még így lesz.)
+Először is, ha pénzt akarsz, van egy befogadó közösség, így a szakmai ismerettséged is nő, ami több munkalehetőséghez vezet. Ez különlegesen igaz a Drupal-ra, ahol a mínőségi munkavállalókra való kereslet messze meghaladja a kínálatot (legalábbis most éppen és bár ez elég kiszámíthatatlan de várhatóan egy ideig még így lesz.)
 
 Másodszor, a szakértők visszajelzései lehetőséget adnak a tanulásra. Ez az egyik oka, hogy miért nagy lehetőség a nyílt forráskód - közösen tanulunk.
 
-Harmadszor, mi emberek szocializált állatok vagyunk. A közösséghez tartozás és dicséretet kapni azoktól, akiket tisztelünk mindenki számára fontos.
+Harmadszor, mi emberek társas lények vagyunk. A közösséghez tartozás és dicséretet kapni azoktól, akiket tisztelünk mindenki számára fontos.
 
-Negyedszer, nézzük meg a fenti listát a flow-ról! Amikor dolgozol a saját hibajegyeden (issue), vannak tiszta céljaid, így válassz olyat, ami megvalósítható (de ne csak olyat). Természetesen teljes felügyeleted van a helyzet felett.
+Negyedszer, vizsgáld meg a fenti listát a flow-ról! Amikor dolgozol a saját hibajegyeden (issue), vannak tiszta céljaid, így válassz olyat, ami megvalósítható (éppen hogy csak). Természetesen teljes felügyeleted van a helyzet felett.
 
 Végül, bár nem kapsz készpénzt, mégis teljesen kifizetődő.
 
 Nos, hogyan tudsz közreműködni? Közreműködni sok formában lehet (marketing, rendezvényszervezés, stb.) de van kettő amit ki szeretnék emelni. Ezek a dokumentáció és a kódolás.
 
-Dokumentációt legjobban az tud írni, aki éppen azon a ponton van, hogy úgy érzi, megértette az adott témát. Ez létrehoz egy különleges tudást, hogy leírja mi volt az, amit nehéz volt megérteni az elején. Így amikor éppen azon harcolsz, hogy megérts valamit, írj jegyzeteket a problémákról, amiket találtál. Végül írd le a válaszokat,amiket találtál és van is egy kézikönyv oldalad. Lehet, hogy nem lesz egyszerű. Lehet,hogy kissé tört angolsággal, de emiatt ne aggódj. Egyszerűbb kijavítani egy kézikönyv oldalt, mint írni egyet újat.
+Dokumentációt legjobban az tud írni, aki éppen azon a ponton van, hogy úgy érzi, megértette az adott témát. Ahhoz különleges tehetség kell, hogy amikor már gyakorlottak vagyunk egy témában, akkor megértsük a kezdők problémáit. Így amikor éppen azon küszködsz, hogy megérts valamit, írj jegyzeteket a problémákról, amiket találtál. Végül írd le a válaszokat,amiket találtál és van is egy kézikönyv oldalad. Lehet, hogy nem lesz egyszerű. Lehet,hogy kissé tört angolsággal, de emiatt ne aggódj. Egyszerűbb kijavítani egy kézikönyv oldalt, mint írni egyet újat.
 
-Kódolásban való közreműködés a leggyakrabban patch-ek írásában és azok ellenörzésében van. Mind a kettő nagyon fontos. Elmehetsz bármelyik projekt oldalára, kattints az "open issues" hivatkozásra, és kijavíthatsz egy fontos hibát vagy ellenőrizhetsz egy patch-et. Kiváló kézikönyv oldalak vannak, amik segítenek ebben: `drupal.org/patch`, `drupal.org/patch/apply`, és `drupal.org/handbook/git`.
+Kódolásban való közreműködés a leggyakrabban patch-ek írásában és azok átnézésében van. Mind a kettő nagyon fontos. Elmehetsz bármelyik projekt oldalára, kattints az "open issues" hivatkozásra, és kijavíthatsz egy fontos hibát vagy átnézhetsz egy patch-et. Kiváló kézikönyv oldalak vannak, amik segítenek ebben: `drupal.org/patch`, `drupal.org/patch/apply`, és `drupal.org/handbook/git`.
 
-Még egyszer, ne próbálj a tökéletes megoldással előállni. Csinálj valamit, ami működik és dolgozz a közösséggel. Megjegyzem, hogy sok patch ellenörzés leírása rövid és nem túl hízelgő. Jegyezd meg, hogy a negatív kritika a kódodnak szól és nem neked! Mi mindenkit szeretünk, aki közreműködik. Időt tölteni a közreműködéssel önmagában is nagyrabecsülendő, mivel az idő a legdrágább árucikk a nyílt forrású közösségekben.
+Még egyszer, ne próbálj a tökéletes megoldással előállni. Csinálj valamit, ami működik és dolgozz a közösséggel. Megjegyzem, hogy sok patch átnézés leírása rövid és nem túl hízelgő. Jegyezd meg, hogy a negatív kritika a kódodnak szól és nem neked! Mi mindenkit szeretünk, aki közreműködik. Időt tölteni a közreműködéssel önmagában is nagyrabecsülendő, mivel az idő a legdrágább árucikk a nyílt forrású közösségekben.
 
 Írhatsz egy hibajegyet, ha nem programozol. Nyithatsz egy hibajelentést és ellenőrizheted, hogy tartalmaz-e elég információt ahhoz, hogy meg lehessen ismételni. Ha nem, jelöld így: "több információ szükséges" (needs more information). Ha igen, próbáld megismételni. Ha többet nem lehet megismételni, zárd le "javított"-ként (fixed). Szükségünk van sok emberre, akik ezt csinálják, hogy azok, akik jobban ismerik a Drupal-t - például Te, miután elolvastad ezt a könyvet, gyakorlatot szereznek és időt fordítanak rá - tudjanak valódi problémák megoldására koncentrálni.
 
