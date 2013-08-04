@@ -63,24 +63,26 @@ Nem azt mondjuk, hogy állandóan a flow állapotában kell lenned, nem is céls
 
 Közreműködés
 ----------
-A nyílt forrású projektekben való közreműködés nem fizet két-hetente, de másképpen lehet vele jól járni. Először is, ha pénzt akarsz, van egy befogadó közösség, így a szakmai ismerettséged is nő, ami több munkalehetőséghez vezet. Ez különlegesen igaz a Drupal-ra, ahol a mínőségi munkavállalókra való kereslet messze meghaladja a kínálatot (jelenleg, bár ez elég kiszámíthatatlan de várhatóan egy ideig még így lesz.)
+A nyílt forrású projektekben való közreműködés nem fizet kéthetente, de másképpen lehet vele jól járni.
 
-Másodszor, a szakértők visszajelzései esélyt adnak a tanulásra. Ez az egyik oka, hogy miért nagy lehetőség a nyílt forráskód - közösen tanulunk.
+Először is, ha pénzt akarsz, van egy befogadó közösség, így a szakmai ismerettséged is nő, ami több munkalehetőséghez vezet. Ez különlegesen igaz a Drupal-ra, ahol a mínőségi munkavállalókra való kereslet messze meghaladja a kínálatot (jelenleg, bár ez elég kiszámíthatatlan, de várhatóan egy ideig még így lesz.)
 
-Harmadszor, mi emberek szociálisan fejlett állatok vagyunk. A közösséghez tartozás és dicséretet kapni azoktól,akiket tisztelünk mindenki számára fontos.
+Másodszor, a szakértők visszajelzései lehetőséget adnak a tanulásra. Ez az egyik oka, hogy miért nagy lehetőség a nyílt forráskód - közösen tanulunk.
 
-Negyedszer, nézzük meg a fenti listát a flow-ról! Amikor dolgozol a saját hibajegyeden (issue), vannak tiszta céljaid, így válassz olyat, ami megvalósítható (de ne csak olyat). Természetesen, teljes  felügyeleted van a teljes szituáció felett.
+Harmadszor, mi emberek szocializált állatok vagyunk. A közösséghez tartozás és dicséretet kapni azoktól, akiket tisztelünk mindenki számára fontos.
 
-Végűl, bár nem kapsz készpénzt mégis teljesen kifizetődő.
+Negyedszer, nézzük meg a fenti listát a flow-ról! Amikor dolgozol a saját hibajegyeden (issue), vannak tiszta céljaid, így válassz olyat, ami megvalósítható (de ne csak olyat). Természetesen teljes felügyeleted van a helyzet felett.
+
+Végül, bár nem kapsz készpénzt, mégis teljesen kifizetődő.
 
 Nos, hogyan tudsz közreműködni? Közreműködni sok formában lehet (marketing, rendezvényszervezés, stb.) de van kettő amit ki szeretnék emelni. Ezek a dokumentáció és a kódolás.
 
 Dokumentációt legjobban az tud írni, aki éppen azon a ponton van, hogy úgy érzi, megértette az adott témát. Ez létrehoz egy különleges tudást, hogy leírja mi volt az, amit nehéz volt megérteni az elején. Így amikor éppen azon harcolsz, hogy megérts valamit, írj jegyzeteket a problémákról, amiket találtál. Végül írd le a válaszokat,amiket találtál és van is egy kézikönyv oldalad. Lehet, hogy nem lesz egyszerű. Lehet,hogy kissé tört angolsággal, de emiatt ne aggódj. Egyszerűbb kijavítani egy kézikönyv oldalt, mint írni egyet újat.
 
-Kódolásban való közreműködés a leggyakrabban patch-ek írásában és azok ellenörzésében van. Mind a kettő nagyon fontos. Elmehetsz bármelyik projekt oldalára, kattints az "open issues" hivatkozásra, és kijavíthatsz egy fontos hibát vagy ellenőrizhetsz egy patch-et. Kiváló kézikönyv oldalak vannak amik segítenek ebben: `drupal.org/patch`, `drupal.org/patch/apply`, és `drupal.org/handbook/git`.
+Kódolásban való közreműködés a leggyakrabban patch-ek írásában és azok ellenörzésében van. Mind a kettő nagyon fontos. Elmehetsz bármelyik projekt oldalára, kattints az "open issues" hivatkozásra, és kijavíthatsz egy fontos hibát vagy ellenőrizhetsz egy patch-et. Kiváló kézikönyv oldalak vannak, amik segítenek ebben: `drupal.org/patch`, `drupal.org/patch/apply`, és `drupal.org/handbook/git`.
 
 Még egyszer, ne próbálj a tökéletes megoldással előállni. Csinálj valamit, ami működik és dolgozz a közösséggel. Megjegyzem, hogy sok patch ellenörzés leírása rövid és nem túl hízelgő. Jegyezd meg, hogy a negatív kritika a kódodnak szól és nem neked! Mi mindenkit szeretünk, aki közreműködik. Időt tölteni a közreműködéssel önmagában is nagyrabecsülendő, mivel az idő a legdrágább árucikk a nyílt forrású közösségekben.
 
-Írhatsz egy hibajegyet, ha nem programozol. Nyithatsz egy hibajelentést és ellenőrizheted, hogy tartalmaz-e elég információt ahhoz, hogy meg lehessen ismételni. Ha nem. jelöld így: "több információ szükséges" (needs more information). Ha igen, próbáld megismételni. Ha többet nem lehet megismételni, zárd le "javított"-ként (fixed). Szükségünk van sok emberre, akik ezt csinálják, hogy azok, akik jobban ismerik a Drupal-t - például Te, miután elolvastad ezt a könyvet, gyakorlatot szereznek és időt fordítanak rá - tudjanak valódi problémák megoldására koncentrálni
+Írhatsz egy hibajegyet, ha nem programozol. Nyithatsz egy hibajelentést és ellenőrizheted, hogy tartalmaz-e elég információt ahhoz, hogy meg lehessen ismételni. Ha nem, jelöld így: "több információ szükséges" (needs more information). Ha igen, próbáld megismételni. Ha többet nem lehet megismételni, zárd le "javított"-ként (fixed). Szükségünk van sok emberre, akik ezt csinálják, hogy azok, akik jobban ismerik a Drupal-t - például Te, miután elolvastad ezt a könyvet, gyakorlatot szereznek és időt fordítanak rá - tudjanak valódi problémák megoldására koncentrálni.
 
 Többet erről és más közreműködési lehetőségekről lásd a 38. fejezetet.
