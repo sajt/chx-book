@@ -1,16 +1,18 @@
-Ésszel fejleszt az ember! írta Négyesi Károly
-=================================================
-A könyv célja, hogy jobban megértsd a Drupal-t, használd nagy dolgokra, és adj vissza a valamit a közösségnek. Ez a fejezet nem csak abban segít, hogy hatékonyabb legyél, hanem abban is,hogy élvezd amit csinálsz.
+Ésszel fejleszt az ember!
+=========================
+írta Négyesi Károly
+-------------------
+A könyv célja, hogy jobban megértsd a Drupal-t, használd nagy dolgokra, és adj vissza valamit a közösségnek. Ez a fejezet nem csak abban segít, hogy hatékonyabb legyél, hanem abban is,hogy élvezd amit csinálsz.
 
 Használj verziókezelőt
 --------------------
-Egyszerűen fogalmazva a verziókezelő elmenti a fájl-jaidat, amikor szólsz neki, hogy ezt tegye, ami lehetővé teszi, hogy a későbbiekben visszaállítsd. Természetesen annál többet tud, mint a file-ok változásainak tárolása. Van egy halom másik funkciója de most csak a "visszaállítás később" funkció fontos.
+Egyszerűen fogalmazva a verziókezelő elmenti a fájl-jaidat, amikor szólsz neki, hogy ezt tegye. Ez lehetővé teszi, hogy a későbbiekben visszaállítsd. Természetesen annál többet tud, mint a file-ok változatainak tárolása. Van egy halom másik funkciója, de most csak a "visszaállítás később" funkció fontos.
 
-A kód a Drupal.org-on már egy ideje a Git-et (http://git-scm.com), és azt ajánlom, hogy használd! Munkád nyomonkövetés a Git-el olyan egyszerű, mint lefuttatni az alábbi kódot:
+A Drupal.org-on már egy ideje a Git-et (http://git-scm.com) használjuk, és azt ajánlom, hogy ezt használd te is! Munkád nyomonkövetése a Git-el olyan egyszerű, mint lefuttatni az alábbi kódot:
     git init .
     git add .
     git commit -m 'Initial commit.'
-Úgy szintén, mindig amikor mentesz futtasd a git commit -a -m "valami". A "valami" egy üzenet egy mondat, nem érdekes, hogy mi, ezen ne izgulj. A legegyszerűbb, ha beírod az aktuális időpontot a megjegyzésbe egy rendszerparancs használatával (git commit -a -m "'date'") vagy definiálsz egy  gyorsbillentyűt. Fontos, hogy megerőltetés nélkül meglegyen a munkád összes változata. (A megerőltetés nélküliség fontossága később tisztává válik.)
+Úgy szintén, mindig amikor mentesz, futtasd a git commit -a -m "valami". A "valami" egy üzenet egy mondat, nem érdekes, hogy mi, ezen ne izgulj. A legegyszerűbb, ha beírod az aktuális időpontot a megjegyzésbe egy rendszerparancs használatával (git commit -a -m "'date'") vagy definiálsz egy  gyorsbillentyűt. Fontos, hogy megerőltetés nélkül meglegyen a munkád összes változata. (A megerőltetés nélküliség fontossága később tisztává válik.)
 
 Egy jobb világban az operációs rendszer megcsinálná ezt helyetted, de sajnos a valóságban általában ez nem történik meg. Amikor elérsz egy mérföldkőhöz,
 írj egy hasznos commit üzenetet, arra az esetre, ha meg akarnád osztani a munkát valaki mással. De a percenkénti
