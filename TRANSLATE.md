@@ -79,3 +79,4 @@ Még egyszer, ne próbálj a tökéletes megoldással előállni. Csinálj valam
 Írhatsz egy hibajegyet, ha nem programozol. Nyithatsz egy hibajelentést és ellenőrizheted, hogy tartalmaz-e elég információt ahhoz, hogy meg lehessen ismételni. Ha nem, jelöld így: „több információ szükséges” (needs more information). Ha igen, próbáld megismételni. Ha többet nem lehet megismételni, zárd le „javított”-ként (fixed). Szükségünk van sok emberre, akik ezt csinálják, hogy azok, akik jobban ismerik a Drupalt – például Te, miután elolvastad ezt a könyvet, gyakorlatot szereznek és időt fordítanak rá – tudjanak valódi problémák megoldására koncentrálni.
 
 Többet erről és más közreműködési lehetőségekről lásd a 38. fejezetet.
+
