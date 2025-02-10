@@ -1,6 +1,6 @@
 SCRUM Szólóban
 ==============
-Hogyan szervezzük meg a projectjeinket, úgy hogy legyen eleje közepe és vége. Ráadásul a végén a megrendelő megelégedetten kifizessen minket? Örök kérdés ez, hasonló az élet értelméhez. Ez utobbira már tudjuk a választ (lásd előző bejegyzés) [http://amon.hu/2013/08/05/esszel-fejleszt-az-ember], az előzőhöz talán most közelebb kerülünk.
+Hogyan szervezzük meg a projectjeinket, úgy hogy legyen eleje közepe és vége. Ráadásul a végén a megrendelő megelégedetten kifizessen minket? Örök kérdés ez, hasonló az élet értelméhez. Ez utobbira már tudjuk a választ (lásd előző bejegyzés), az előzőhöz talán most közelebb kerülünk.
 
 A SCRUM egy project management eszköz, nagyon jó leírás van róla a [Wikipédián] (http://hu.wikipedia.org/wiki/Scrum "Scrum a Wikipédián") ezenkívűl rengeteg könyvet találunk a témában. A Scrum-ot manapság sűrün használják Drupalos körökben is, ami nekem garancia hogy érdemes vele foglalkozni. Az egész alapja, hogy a megrendelő a fejlesztés közben meggondolhatja magát, ami lássuk be egy nagyon emberi dolog. Ráadásul nem biztos, hogy minden igyekezetünk ellenére jól értettük meg a feladatot, így nekünk fejlesztőknek is jó, ha ez időközben kiderül.
 
