@@ -17,16 +17,19 @@ A termék megrendelők lehetünk akár saját magunk is, ha például úgy dönt
 
 Ugyanez igaz akkor is, ha egy megrendelővel beszélgetünk. Nézzük meg mit szeretne, és csak aztán nézzük meg azt, hogy hogyan. Igazából a Scrum Master beszéli meg a megrendelővel hogy mik a feladatok, aztán Ő miondja el a fejlesztőknek, hogy mit is kellene csinálni. Ráadásul a Scrum master egyfajta lökhárító is, hogy a fejlesztőnek ne kelljen a megrendelővel találkoznia. Viszont Szolóban mi vagyunk a Scrum Masterek is, ami néha elég ambivalens érzés tud lenni.
 
-Az egész Scrum terminológia az Amerikai fociból jön. Itt is van egy csapat, ami összeborul (ez a Scrum)
 ![Scrum](giphy.gif)
 
-Hátradobja a labdát, ami után jön a Sprint. (közben persze passzolgatják a labdát, amit szolóban nehéz).
+Az egész Scrum terminológia az Amerikai fociból jön. Itt is van egy csapat, ami összeborul (ez a Scrum)
+
 ![Sprint](sprint-football-tickets.jpg)
 
-A végén pedig jön a touch-down.
+Hátradobja a labdát, ami után jön a Sprint. (közben persze passzolgatják a labdát, amit szolóban nehéz).
+
 ![Touch-down](touch-down.gif)
 
-Vagy mégegy scrum, úgyhogy vissza az elejére.
+A végén pedig jön a touch-down.
+
+Vagy még egy scrum, úgyhogy vissza az elejére.
 Persze mindig vannak akadályok, amit a közben le kell győzni.
 
 
